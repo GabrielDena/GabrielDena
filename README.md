@@ -3,7 +3,7 @@
 
 <ul>
 	<li>🔭 I’m currently working with nodejs using the Express and NestJs.</li>
-	<li>🌱 I’m currently learning new backend technologies, like Elixir and Python.</li>
+	<li>🌱 I’m currently learning new backend technologies, like Go and Elixir.</li>
 	<li>👯 I’m looking to collaborate on web systems in the backend.</li>
 	<li>🤔 I’m looking for help with the best pratices in making an application.</li>
 	<li>😄 Pronouns: (He/Him)</li>
