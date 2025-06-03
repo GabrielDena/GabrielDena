@@ -7,7 +7,7 @@
 	<li>👯 I’m looking to collaborate on web systems in the backend.</li>
 	<li>🤔 I’m looking for help with the best pratices in making an application.</li>
 	<li>😄 Pronouns: (He/Him)</li>
-	<li>⚡ Fun fact: I'm 24 years old and soon to be married! Love cats and programming, each day I try to learn a little more of this huge universe!</li>
+	<li>⚡ Fun fact: I'm 27 years old! Love cats and programming, each day I try to learn a little more of this huge universe!</li>
 </ul>
 <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif" width="250"/>
 
